@@ -116,6 +116,12 @@
         <item>@android:color/system_accent1_400</item>
         <item>@android:color/system_accent2_400</item>
         <item>@android:color/system_accent3_400</item>
+        <item>@android:color/system_accent1_500</item>
+        <item>@android:color/system_accent2_500</item>
+        <item>@android:color/system_accent3_500</item>
+        <item>@android:color/system_accent1_600</item>
+        <item>@android:color/system_accent2_600</item>
+        <item>@android:color/system_accent3_600</item>
     </array>
 
     <color name="letter_tile_font_color">#ffffff</color>
