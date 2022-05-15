@@ -50,7 +50,7 @@
 	        android:layout_height="24dp"
 	        android:layout_marginStart="20dp"
 	        android:layout_width="24dp"
-	        android:src="@drawable/ic_add_white" />
+	        android:src="@drawable/ic_message" />
 
 	    <TextView
         	android:layout_gravity="center_vertical"
